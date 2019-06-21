@@ -25,7 +25,7 @@ The RI utilization exporter uses Boto 3 so the running user's aws/credentials fi
 
 # Usage
 
-./aws-ri-utilization-prometheus-exporter.py [PORT]
+./awsRIUtilizationPrometheusExporter.py [PORT]
 
 By default the exporter runs on 9250 but a custom port can be specified from the command line.
 
